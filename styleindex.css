@@ -10,7 +10,7 @@
   position: relative;
   width: 100vw;
   height: 100vh;
-  background: url("assets/fondo-desktop-firma.jpg") center/cover no-repeat fixed;
+  background: url("assets/images-index/fondo-desktop-firma.jpg") center/cover no-repeat fixed;
   overflow: hidden;
 }
 
@@ -89,7 +89,7 @@
 /* ====== VERSIÓN MÓVIL ====== */
 @media (max-width: 767px) {
   .hero {
-    background: url("assets/fondo-mobile-firma.jpg") center/cover no-repeat fixed;
+    background: url("/assets/images-index/fondo-mobile-firma.jpg") center/cover no-repeat fixed;
   }
 
   .icon {
