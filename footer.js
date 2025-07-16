@@ -3,9 +3,9 @@ const footerTemplate = `
     <div class="footer-content">
       <a href="/" class="footer-brand">teresa avendaño</a>
       <nav class="footer-links" id="footerLinks">
-        <a href="/pagina1">todos los proyectos</a>
-        <a href="/pagina2">sobre mí</a>
-        <a href="/pagina3">contacto</a>
+        <a href="/lista">todos los proyectos</a>
+        <a href="/about">sobre mí</a>
+        <a href="/contacto">contacto</a>
       </nav>
       <button class="menu-toggle" id="menuToggle">menú</button>
     </div>

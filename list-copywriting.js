@@ -1,8 +1,8 @@
 // ---------------- Config ----------------
 const proyectos = [
 
-  { titulo: "Copywriting / La Marea",                año: "2024",       color: "#6278F2", url: "#" },
-  { titulo: "Copywriting / Substack",                año: "2024",       color: "#FDC8FE", url: "#" },
+  { titulo: "Artículos / La Marea",                año: "2024",       color: "#6278F2", url: "#" },
+  { titulo: "Artículos / Substack",                año: "2024",       color: "#FDC8FE", url: "#" },
   { titulo: "Copywriting / Sepiia",                año: "2024",       color: "#A86C49", url: "#" }
 
 ];

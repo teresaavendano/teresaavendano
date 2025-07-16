@@ -2,9 +2,9 @@
 const proyectos = [
   
   
-  { titulo: "Eventos y Diseño Floral / Longchamp",                año: "2025",       color: "#8EDE7B", url: "#" },
-  { titulo: "Eventos y Diseño Floral / Under Construction",                año: "2025",       color: "#CED3D7", url: "#" },
-  { titulo: "Eventos y Diseño Floral / Sepiia x Levante",                año: "2025",       color: "#B5B0FD", url: "#" }
+  { titulo: "Diseño Floral / Longchamp",                año: "2025",       color: "#8EDE7B", url: "#" },
+  { titulo: "Diseño Floral / Under Construction",                año: "2025",       color: "#CED3D7", url: "#" },
+  { titulo: "Eventos / Sepiia x Levante",                año: "2025",       color: "#B5B0FD", url: "#" }
   
 ];
 
