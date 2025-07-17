@@ -11,7 +11,9 @@ const proyectos = [
   { titulo: "Eventos / Sepiia x Levante",                año: "2025",       color: "#B5B0FD", url: "/eventos-sepiia-levante" },
   { titulo: "Ilustración / Pasteles",                año: "2024-2025",       color: "#FDA88A", url: "/ilustracion-pasteles" },
   { titulo: "Ilustración / Exposición",                año: "2023",       color: "#C1F7FF", url: "/ilustracion-exposicion" },
-  { titulo: "Ilustración / Acrílicos",                año: "2022-2024",       color: "#FFF9AD", url: "/ilustracion-acrilicos" }
+  { titulo: "Ilustración / Acrílicos",                año: "2022-2024",       color: "#FFF9AD", url: "/ilustracion-acrilicos" },
+  { titulo: "Ilustración / Teresa",                año: "2025",       color: "#0008ffff", url: "/proyectos/ilustracion-teresa" }
+
 ];
 
 // ---------------- Helpers ----------------

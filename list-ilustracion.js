@@ -4,7 +4,8 @@ const proyectos = [
   
   { titulo: "Ilustración / Pasteles",                año: "2024",       color: "#FDA88A", url: "#" },
   { titulo: "Ilustración / Exposición",                año: "2024",       color: "#C1F7FF", url: "#" },
-  { titulo: "Ilustración / Acrílicos",                año: "2024",       color: "#FFF9AD", url: "#" }
+  { titulo: "Ilustración / Acrílicos",                año: "2024",       color: "#FFF9AD", url: "#" },
+  { titulo: "Ilustración / Teresa",                año: "2025",       color: "#0008ffff", url: "/proyectos/ilustracion-teresa" }
 
 ];
 
