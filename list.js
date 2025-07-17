@@ -1,6 +1,6 @@
 // ---------------- Config ----------------
 const proyectos = [
-  { titulo: "Comunicación y Dirección Creativa / Brot", año: "2025",       color: "#6BB7DE", url: "/comunicacion-brot" },
+  { titulo: "Comunicación y Dirección Creativa / Brot", año: "2025",       color: "#6BB7DE", url: "/proyectos/comunicacion-brot" },
   { titulo: "Comunicación y Dirección Creativa / Sepiia",          año: "2023–2025",  color: "#F3DC63", url: "/comunicacion-sepiia" },
   { titulo: "Comunicación / Greenwalk Awards",                     año: "2023",       color: "#F1A664", url: "/comunicacion-greenwalk" },
   { titulo: "Artículos / La Marea",                año: "2025",       color: "#6278F2", url: "/articulos-lamarea" },
