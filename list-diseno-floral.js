@@ -2,9 +2,9 @@
 const proyectos = [
   
   
-  { titulo: "Diseño Floral / Longchamp",                año: "2025",       color: "#8EDE7B", url: "#" },
-  { titulo: "Diseño Floral / Under Construction",                año: "2025",       color: "#CED3D7", url: "#" },
-  { titulo: "Eventos / Sepiia x Levante",                año: "2025",       color: "#B5B0FD", url: "#" }
+  { titulo: "Diseño Floral / Longchamp",                año: "2025",       color: "#8EDE7B", url: "/proyectos/eventos-longchamp" },
+  { titulo: "Diseño Floral / Under Construction",                año: "2025",       color: "#CED3D7", url: "/proyectos/eventos-under-construction" },
+  { titulo: "Eventos / Sepiia x Levante",                año: "2025",       color: "#B5B0FD", url: "/proyectos/eventos-sepiia-levante" }
   
 ];
 

@@ -3,16 +3,16 @@ const proyectos = [
   { titulo: "Comunicación y Dirección Creativa / Brot", año: "2025",       color: "#6BB7DE", url: "/proyectos/comunicacion-brot" },
   { titulo: "Comunicación y Dirección Creativa / Sepiia",          año: "2023–2025",  color: "#F3DC63", url: "/proyectos/comunicacion-sepiia" },
   { titulo: "Comunicación / Greenwalk Awards",                     año: "2023",       color: "#F1A664", url: "/proyectos/comunicacion-greenwalk" },
-  { titulo: "Artículos / La Marea",                año: "2025",       color: "#6278F2", url: "/articulos-lamarea" },
-  { titulo: "Artículos / Substack",                año: "2020-2025",       color: "#FDC8FE", url: "/articulos-substack" },
-  { titulo: "Copywriting / Sepiia",                año: "2023-2025",       color: "#A86C49", url: "/articulos-sepiia" },
-  { titulo: "Diseño Floral / Longchamp",                año: "2025",       color: "#8EDE7B", url: "/eventos-longchamp" },
-  { titulo: "Diseño Floral / Under Construction",                año: "2025",       color: "#CED3D7", url: "/eventos-under-construction" },
-  { titulo: "Eventos / Sepiia x Levante",                año: "2025",       color: "#B5B0FD", url: "/eventos-sepiia-levante" },
-  { titulo: "Ilustración / Pasteles",                año: "2024-2025",       color: "#FDA88A", url: "/ilustracion-pasteles" },
-  { titulo: "Ilustración / Exposición",                año: "2023",       color: "#C1F7FF", url: "/ilustracion-exposicion" },
-  { titulo: "Ilustración / Acrílicos",                año: "2022-2024",       color: "#FFF9AD", url: "/ilustracion-acrilicos" },
-  { titulo: "Ilustración / Teresa",                año: "2025",       color: "#0008ffff", url: "/proyectos/ilustracion-teresa" }
+  { titulo: "Artículos / La Marea",                año: "2025",       color: "#6278F2", url: "/proyectos/articulos-lamarea" },
+  { titulo: "Artículos / Substack",                año: "2020-2025",       color: "#FDC8FE", url: "/proyectos/articulos-substack" },
+  { titulo: "Copywriting / Sepiia",                año: "2023-2025",       color: "#A86C49", url: "/proyectos/articulos-sepiia" },
+  { titulo: "Diseño Floral / Longchamp",                año: "2025",       color: "#8EDE7B", url: "/proyectos/eventos-longchamp" },
+  { titulo: "Diseño Floral / Under Construction",                año: "2025",       color: "#CED3D7", url: "/proyectos/eventos-under-construction" },
+  { titulo: "Eventos / Sepiia x Levante",                año: "2025",       color: "#B5B0FD", url: "/proyectos/eventos-sepiia-levante" },
+  { titulo: "Ilustración / Pasteles",                año: "2024-2025",       color: "#FDA88A", url: "/proyectos/ilustracion-pasteles" },
+  { titulo: "Ilustración / Exposición",                año: "2023",       color: "#C1F7FF", url: "/proyectos/ilustracion-exposicion" },
+  { titulo: "Ilustración / Acrílicos",                año: "2022-2024",       color: "#FFF9AD", url: "/proyectos/ilustracion-acrilicos" }
+  
 
 ];
 

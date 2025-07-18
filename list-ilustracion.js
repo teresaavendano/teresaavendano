@@ -2,10 +2,10 @@
 const proyectos = [
  
   
-  { titulo: "Ilustración / Pasteles",                año: "2024",       color: "#FDA88A", url: "#" },
-  { titulo: "Ilustración / Exposición",                año: "2024",       color: "#C1F7FF", url: "#" },
-  { titulo: "Ilustración / Acrílicos",                año: "2024",       color: "#FFF9AD", url: "#" },
-  { titulo: "Ilustración / Teresa",                año: "2025",       color: "#0008ffff", url: "/proyectos/ilustracion-teresa" }
+  { titulo: "Ilustración / Pasteles",                año: "2024-2025",       color: "#FDA88A", url: "/proyectos/ilustracion-pasteles" },
+  { titulo: "Ilustración / Exposición",                año: "2023",       color: "#C1F7FF", url: "/proyectos/ilustracion-exposicion" },
+  { titulo: "Ilustración / Acrílicos",                año: "2022-2024",       color: "#FFF9AD", url: "/proyectos/ilustracion-acrilicos" }
+  
 
 ];
 

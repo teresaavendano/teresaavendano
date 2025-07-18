@@ -1,9 +1,9 @@
 // ---------------- Config ----------------
 const proyectos = [
 
-  { titulo: "Artículos / La Marea",                año: "2024",       color: "#6278F2", url: "#" },
-  { titulo: "Artículos / Substack",                año: "2024",       color: "#FDC8FE", url: "#" },
-  { titulo: "Copywriting / Sepiia",                año: "2024",       color: "#A86C49", url: "#" }
+  { titulo: "Artículos / La Marea",                año: "2025",       color: "#6278F2", url: "/proyectos/articulos-lamarea" },
+  { titulo: "Artículos / Substack",                año: "2020-2025",       color: "#FDC8FE", url: "/proyectos/articulos-substack" },
+  { titulo: "Copywriting / Sepiia",                año: "2023-2025",       color: "#A86C49", url: "/proyectos/articulos-sepiia" }
 
 ];
 
